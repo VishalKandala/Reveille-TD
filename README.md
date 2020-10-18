@@ -1,5 +1,8 @@
 # Reveille-TD
 # # colab # streamlit # css3 # # NumPy # Pandas # TensorFlow #ngrok #nltk #SciKitLearn 
+
+https://www.youtube.com/watch?v=CQiTkl1aVQ8&t=11s
+
 Challenge Chosen:​ TD for you page
 
 Team Name: ​ Gryffindor
