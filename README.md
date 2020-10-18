@@ -1,15 +1,13 @@
-# Reveille-TD
+# Reveille@TD
 # # colab # streamlit # css3 # # NumPy # Pandas # TensorFlow #ngrok #nltk #SciKitLearn 
 
 https://www.youtube.com/watch?v=CQiTkl1aVQ8&t=11s
 
-Challenge Chosen:​ TD for you page
+# Members:
+Aashrith sai, Naga Prasanth, Vishal Indivar Kandala.
 
-Team Name: ​ Gryffindor
-
-Members: ​ Aashrith sai, Naga Prasanth, Vishal Indivar.
-
-GOAL:​ ​ Create a for you page that is customized for each attendee using tamu datathon application.
+# Objective:
+Create a for you page that is customized for each attendee using tamu datathon application.
 We have created an individual specific For-you page which is completely dynamic and constantly keeps
 updating as there are more entries into the database. We have created this application keeping these key
 features in mind.
