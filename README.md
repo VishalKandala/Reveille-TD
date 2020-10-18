@@ -1,4 +1,5 @@
 # Reveille-TD
+# # colab # streamlit # css3 # # NumPy # Pandas # TensorFlow #ngrok #nltk #SciKitLearn 
 Challenge Chosen:​ TD for you page
 
 Team Name: ​ Gryffindor
@@ -10,13 +11,13 @@ We have created an individual specific For-you page which is completely dynamic 
 updating as there are more entries into the database. We have created this application keeping these key
 features in mind.
 
-Key features:
+# Key features:
 1. Team members recommendation
 2. Workshops recommendation
 3. chatbot that answers all the queries
 4. Real time graph visualizations
 
-Implementation specifics:
+# Implementation specifics:
 Team members recommendation:
 An ideal team has team members from similar backgrounds who have varied skills required to complete a
 project. So for our website we developed a team member recommendation system by first finding the
@@ -35,7 +36,7 @@ This intelligent team building application takes care of matching individuals wh
 the case where someone with good skills with machine learning needs to be complemented by a web
 developer. Keeping this in mind we have created this recommendation engine.
 
-Workshops recommendation:
+# Workshops recommendation:
 We also created a personalised workshop recommendation system that recommends workshops based on
 the students' expertise and difficulty of workshops using the “workshops”,”Applicant Data” datasets
 given to us. For this we first clustered the individuals as beginner, intermediate and advanced by using
@@ -45,7 +46,7 @@ This recommendation system helps individuals find best workshops that are suited
 also have the opportunity to learn. We have also displayed relevant information about the workshops,
 skills targeted, venue and time of the workshop. This would save a lot of time.Fig-3: Workshop recommendations based on interest and difficulty
 
-Reveille the Chatbot:
+# Reveille the Chatbot:
 We created Reveille to make the website more lively and give users an interactive experience. We
 implemented a chatbot that answers user queries regarding workshop suggestions, hackathon sponsors,
 prizes, competitions etc. For implementing the chatbot we used the workshops dataset to get the relevant
@@ -64,7 +65,7 @@ whole and complete, it answers questions from the date and time of the workshops
 challenges, talks and workshops to work on one's skills. It is a one stop shop for anyone who is
 participating in the datathon.
 
-Real Time Graph Visualizations:
+# Real Time Graph Visualizations:
 We have also added several real time graph analysis tools, where one can filter on what criteria the data
 should be visualized. We included categories such as students ratio from different colleges, classification,
 expertise and industry from which they are from. This analysis tool helps individuals to have a better
